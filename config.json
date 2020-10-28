@@ -9,13 +9,13 @@
     "gh_url": "https://github.com/lokesh joshi",
     "blog_name": "Lokesh Joshi",
     "tag_line": "Tech Blogs For Geeky Person",
-    "gmail-user":"lokeshjoshi053@gmail.com",
+    "gmail-user":"enter your mail",
     "gmail-password":"Enter Your Password::",
     "about_text": "Hi my name is lokesh and I create flask website",
     "no_of_posts": 2,
     "login_image":"img/about-bg.jpg",
-    "admin_user":"lokeshjoshi",
-    "admin_password": "lokesh@123",
+    "admin_user":"enter you name",
+    "admin_password": "enter your password",
     "upload_location": "C:\\Users\\lokeshjoshi\\PycharmProjects\\firstprog\\static"
   }
 
