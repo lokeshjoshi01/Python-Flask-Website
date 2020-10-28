@@ -1,0 +1,22 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri": "mysql://root:@localhost/lokesh joshi",
+    "prod_uri":"mysql://root:@localhost/lokesh joshi",
+    "fb_url":"https://facebook.com/lokesh joshi",
+    "tw_url":"https://twitter.com/lokesh joshi",
+    "gh_url": "https://github.com/lokesh joshi",
+    "blog_name": "Lokesh Joshi",
+    "tag_line": "Tech Blogs For Geeky Person",
+    "gmail-user":"lokeshjoshi053@gmail.com",
+    "gmail-password":"__Joshi01#lj9662@__::",
+    "about_text": "Hi my name is lokesh and I create flask website",
+    "no_of_posts": 2,
+    "login_image":"img/about-bg.jpg",
+    "admin_user":"lokeshjoshi",
+    "admin_password": "lokesh@123",
+    "upload_location": "C:\\Users\\lokeshjoshi\\PycharmProjects\\firstprog\\static"
+  }
+
+}
